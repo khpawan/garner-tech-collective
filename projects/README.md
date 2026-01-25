@@ -8,7 +8,14 @@ Community-driven projects that make Garner a better place through technology.
 
 ## 💡 Project Ideas
 
-Check our [project-idea issues](https://github.com/garner-tech-collective/garner-tech-collective/issues?q=is%3Aopen+is%3Aissue+label%3Aproject-idea) for proposals looking for collaborators.
+### Proposed Projects
+
+| Project | Description | Skills Needed | Status |
+|---------|-------------|---------------|--------|
+| [Scam Alert Workshops](scam-alert-workshops.md) | Monthly security workshops at Garner Library | Teaching, security knowledge | Looking for lead |
+| [Town Council Summarizer](town-council-summarizer.md) | AI-powered summaries of council meetings | Python, LLM APIs, writing | Looking for lead |
+
+Check our [project-idea issues](https://github.com/garner-tech-collective/garner-tech-collective/issues?q=is%3Aopen+is%3Aissue+label%3Aproject-idea) for more proposals looking for collaborators.
 
 ## 📋 Proposing a Project
 
