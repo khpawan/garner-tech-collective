@@ -82,7 +82,7 @@ If this resonates, add your name below as a **founding member** (via PR or issue
 - Show up to our first meetup and we'll help you add your name!
 
 - [Pawan Khandavilli] — Founder
-- [Next Member]
+- [Jimmy Coreria] - Founding Member
 - [Next Member]
 
 ---
